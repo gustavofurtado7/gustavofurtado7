@@ -70,7 +70,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack capaz de criar aplicaçõe
 <img src="https://skillicons.dev/icons?i=github" height="48"/>
 </a>
 
-<a href="https://linkedin.com/in/gustavo-furtado"> <img
+<a href="https://linkedin.com/in/gustavo-furtado">
 <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
