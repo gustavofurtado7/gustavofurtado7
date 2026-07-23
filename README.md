@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Gustavo%20Furtado&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Progress&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Gustavo%20Furtado&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58"/>
 
 # 👋 Olá, eu sou **Gustavo Furtado**
 
-### 💻 Desenvolvedor Full Stack em formação
+### 💻 Desenvolvedor Full Stack
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Construindo+projetos+modernos;Sempre+aprendendo+novas+tecnologias." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Bem-vindo+ao+meu+GitHub!;Construindo+projetos+modernos;Sempre+aprendendo+novas+tecnologias." />
 
 <br>
 
