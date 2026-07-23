@@ -12,10 +12,6 @@
 
 ![](https://img.shields.io/badge/Front--End-2563EB?style=for-the-badge)
 ![](https://img.shields.io/badge/Back--End-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-
 </div>
 
 ---
@@ -39,15 +35,13 @@ Atualmente estou estudando tecnologias para desenvolvimento **Front-end** e **Ba
 ### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite" />
 </p>
 
 ### Back-end
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,postgres" />
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" /> 
 </p>
-
 ### Ferramentas
 
 <p>
@@ -86,7 +80,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack capaz de criar aplicaçõe
 
 ###  *"Transformando ideias em código, um projeto de cada vez."*
 
-**Obrigado por visitar meu perfil! ⭐**
+**Obrigado por visitar meu perfil! **
 
 </div>
 
