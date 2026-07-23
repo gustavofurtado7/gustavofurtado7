@@ -42,6 +42,7 @@ Atualmente estou estudando tecnologias para desenvolvimento **Front-end** e **Ba
 
 <p> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" /> 
 </p>
+
 ### Ferramentas
 
 <p>
