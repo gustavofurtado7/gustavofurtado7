@@ -35,7 +35,7 @@ Atualmente estou estudando tecnologias para desenvolvimento **Front-end** e **Ba
 ### Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,react,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,vite" />
 </p>
 
 ### Back-end
