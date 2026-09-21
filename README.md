@@ -46,7 +46,7 @@ Atualmente estou estudando tecnologias para desenvolvimento **Front-end** e **Ba
 ### Ferramentas
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm" />
 </p>
 
 ---
